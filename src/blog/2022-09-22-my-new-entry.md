@@ -6,7 +6,7 @@ tags:
   - post
   - featured
 date: 2022-09-21T21:11:56.028Z
-image: assets/blog/postar.jpg
+image: /assets/blog/qrcode_registration.png
 imageAlt: My Poster
 ---
 
